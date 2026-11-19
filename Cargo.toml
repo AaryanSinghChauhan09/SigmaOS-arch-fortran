@@ -2,7 +2,7 @@
 name = "arch-fortran"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-fortran component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-fortran component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-fortran"
 
