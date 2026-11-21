@@ -1,4 +1,4 @@
-use arch_fortran::Component;
+use sigmaos_fortran::Component;
 
 #[test]
 fn test_component_new_aaa() {

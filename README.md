@@ -1,4 +1,4 @@
-# SigmaOS-arch-fortran
+# SigmaOS-fortran
 
 GitHub description is a placeholder; component scope remains unclassified.
 
